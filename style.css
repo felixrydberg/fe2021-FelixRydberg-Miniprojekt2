@@ -28,7 +28,7 @@ header h1 {
 main {
     grid-row: 2;
     display: grid;
-    grid-template: 15vh 15vh 23vh 23vh / auto 15rem auto;
+    grid-template: auto auto 23vh 23vh / auto 15rem auto;
 }
 
 main article {
